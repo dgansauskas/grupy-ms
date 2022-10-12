@@ -1,4 +1,4 @@
-## Código de Conduta do Evento Python Brasil
+## Código de conduta da comunidade
 A comunidade Grupy-MS é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
